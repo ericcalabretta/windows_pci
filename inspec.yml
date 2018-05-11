@@ -1,0 +1,8 @@
+name: windows_pci_example
+title: PCI_DSS_v3-2
+maintainer: The Authors
+copyright: The Authors
+copyright_email: you@example.com
+license: Apache-2.0
+summary: A basic PCI example profile
+version: 0.1.0
